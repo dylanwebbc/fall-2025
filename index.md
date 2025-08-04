@@ -1,6 +1,6 @@
 ---
-title: 'Dept 999: Generic Description'
-subtitle: 'UC Berkeley, Spring 2024'
+title: "Stat 131a: Statistical Inferences for Social and Life Scientists"
+subtitle: "UC Berkeley, Fall 2025"
 ---
 
 <!--div class="staffer">
@@ -44,7 +44,7 @@ subtitle: 'UC Berkeley, Spring 2024'
 
 ::::
 
-:::{attention} Welcome to [Week 2](#week2) of Dept 999!
+:::{attention} Welcome to [Week 2](#week2) of Stat 131a!
 :class: dropdown
 :icon: false
 👋

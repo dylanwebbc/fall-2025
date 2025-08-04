@@ -1,14 +1,14 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: 'Dept 999'
-  description: 'Test Class Website Based On Myst'
+  title: "Stat 131a"
+  description: "Statistical Inferences for Social and Life Scientists"
   keywords: []
-  authors: ['Instructor Name']
+  #authors: ['Instructor Name']
   license:
     # code: MIT
     content: CC-BY-4.0
-  github: https://github.com/berkeley-cdss/course-site-myst
+  github: https://github.com/berkeley-stat131a/fall-2025
   # bibliography: []
   jupyter:
     lite: true
@@ -31,7 +31,7 @@ project:
     - file: unit2
 site:
   template: book-theme
-  title: 'Dept 999'
+  title: "Stat 131a"
   options:
     logo: 'stat_bear.png'
   nav: []
@@ -40,7 +40,7 @@ site:
       url: https://edstem.org
     - title: DataHub
       url: https://datahub.berkeley.edu
-    - title: Gradescope
-      url: https://www.gradescope.com/courses/564792
+    #- title: Gradescope
+    #  url: https://www.gradescope.com/courses/564792
   domains:
-    - berkeley-cdss.github.io
+    - stat131a.berkeley.edu
