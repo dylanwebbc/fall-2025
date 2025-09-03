@@ -25,3 +25,7 @@ We will post announcements on Ed. Please monitor Ed regularly.
 :::{schedule} ./schedule.yml
 
 :::
+
+## Lab/Assignments
+
+All lab assignments are graded for accuracy. See the [syllabus](syllabus.md) for collaboration and late policies.
