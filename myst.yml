@@ -10,8 +10,8 @@ project:
     content: CC-BY-4.0
   github: https://github.com/berkeley-stat131a/fall-2025
   # bibliography: []
-  jupyter:
-    lite: true
+  #jupyter:
+  #  lite: true
   #thebe:
   #  lite: true
     #local:
@@ -21,14 +21,14 @@ project:
     #  url: http://localhost:8888
     #  token: test-secret
   plugins:
-    - schedule.mjs
+  - schedule.mjs
   toc:
-    - file: index
-    - file: syllabus
-    - file: calendar
-    - file: data
-    - file: unit1
-    - file: unit2
+  - file: index
+  - file: syllabus
+  #- file: calendar
+  #authors:
+  #- Instructor Name
+  bibliography: references.bib
 site:
   template: book-theme
   title: "Stat 131a"
@@ -36,11 +36,12 @@ site:
     logo: 'stat_bear.png'
   nav: []
   actions:
-    - title: Ed
-      url: https://edstem.org
-    - title: DataHub
-      url: https://datahub.berkeley.edu
-    #- title: Gradescope
-    #  url: https://www.gradescope.com/courses/564792
+  - title: bCourses
+    url: https://bcourses.berkeley.edu
+  - title: Ed
+    url: https://edstem.org
+  - title: Gradescope
+    url: https://www.gradescope.com/courses/564792
   domains:
-    - stat131a.berkeley.edu
+  - stat131a.berkeley.edu
+
