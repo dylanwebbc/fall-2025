@@ -22,9 +22,11 @@ project:
     #  token: test-secret
   plugins:
   - schedule.mjs
+  - staff.mjs
   toc:
-  - file: index
-  - file: syllabus
+  - file: index.md
+  - file: syllabus.md
+  - file: staff.md
   #- file: calendar
   #authors:
   #- Instructor Name
@@ -34,6 +36,7 @@ site:
   title: "Stat 131a"
   options:
     logo: 'stat_bear.png'
+    style: custom.css
   nav: []
   actions:
   - title: bCourses
