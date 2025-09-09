@@ -14,7 +14,7 @@
           id: '2'
           name: "Central Tendencies: Mean, Median, Mode"
           href: "./slides/Lecture2_STAT131A.pdf"
-- week: 3
+- week: 2
   days:
     - date: 'Sep 4'
       items:
@@ -22,6 +22,14 @@
           id: '3'
           name: "Visualization: The Boxplot"
           href: "./slides/Lecture3_STAT131A.pdf"
+- week: 3
+  days:
+    - date: 'Sep 9'
+      items:
+        - type: 'Lecture'
+          id: '4'
+          name: "Probabilistic Distributions"
+          href: "./slides/Lecture4_STAT131A.pdf"
 #- week: 2
 #  days:
 #    - date: 'Sep 29'
