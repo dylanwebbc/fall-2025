@@ -30,6 +30,14 @@
           id: '4'
           name: "Probabilistic Distributions"
           href: "./slides/Lecture4_STAT131A.pdf"
+- week: 3
+  days:
+    - date: 'Sep 11'
+      items:
+        - type: 'Lecture'
+          id: '5'
+          name: "Probabilistic Distributions"
+          href: "./slides/Lecture5_STAT131A.pdf"
 #- week: 2
 #  days:
 #    - date: 'Sep 29'
