@@ -38,6 +38,14 @@
           id: '5'
           name: "Probabilistic Distributions"
           href: "./slides/Lecture5_STAT131A.pdf"
+- week: 4
+  days:
+    - date: 'Sep 16'
+      items:
+        - type: 'Lecture'
+          id: '6'
+          name: "Probabilistic Distributions: The Normal Distribution; Kernel Density Estimation"
+          href: "./slides/Lecture6_STAT131A.pdf"
 #- week: 2
 #  days:
 #    - date: 'Sep 29'
