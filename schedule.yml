@@ -46,6 +46,14 @@
           id: '6'
           name: "Probabilistic Distributions: The Normal Distribution; Kernel Density Estimation"
           href: "./slides/Lecture6_STAT131A.pdf"
+- week: 4
+  days:
+    - date: 'Sep 18'
+      items:
+        - type: 'Lecture'
+          id: '7'
+          name: "Kernel Density Estimation; The Central Limit Theorem"
+          href: "./slides/Lecture7_STAT131A.pdf"
 #- week: 2
 #  days:
 #    - date: 'Sep 29'
