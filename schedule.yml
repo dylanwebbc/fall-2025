@@ -54,6 +54,14 @@
           id: '7'
           name: "Kernel Density Estimation; The Central Limit Theorem"
           href: "./slides/Lecture7_STAT131A.pdf"
+- week: 5
+  days:
+    - date: 'Sep 23'
+      items:
+        - type: 'Lecture'
+          id: '8'
+          name: "Hypothesis Testing I"
+          href: "./slides/Lecture8_STAT131A.pdf"
 #- week: 2
 #  days:
 #    - date: 'Sep 29'
