@@ -62,6 +62,18 @@
           id: '8'
           name: "Hypothesis Testing I"
           href: "./slides/Lecture8_STAT131A.pdf"
+- week: 5
+  days:
+    - date: 'Sep 25'
+      items:
+        - type: 'Lecture'
+          id: '9'
+          name: "Hypothesis Testing II"
+          href: "./slides/Lecture9_STAT131A.pdf"
+        - type: 'R code'
+          id: '9'
+          name: "R code for lecture example problems"
+          href: "./code/Lec 9 (Hypothesis Testing Examples).R"
 #- week: 2
 #  days:
 #    - date: 'Sep 29'
