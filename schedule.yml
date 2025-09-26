@@ -73,7 +73,7 @@
         - type: 'R code'
           id: '9'
           name: "R code for lecture example problems"
-          href: "./code/Lec 9 (Hypothesis Testing Examples).R"
+          href: "./code/Lec9 (Hypothesis Testing Examples).R"
 #- week: 2
 #  days:
 #    - date: 'Sep 29'
