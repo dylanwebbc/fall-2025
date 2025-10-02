@@ -74,6 +74,30 @@
           id: '9'
           name: "R code for lecture example problems"
           href: "./code/Lec9 (Hypothesis Testing Examples).R"
+- week: 6
+  days:
+    - date: 'Sep 29'
+      items:
+        - type: 'Lecture'
+          id: '10'
+          name: "Hypothesis Testing III"
+          href: "./slides/Lecture10_STAT131A.pdf"
+        - type: 'R code'
+          id: '9'
+          name: "R code for lecture example problems"
+          href: "./code/Lec10_Examples.R"
+- week: 6
+  days:
+    - date: 'Oct 1'
+      items:
+        - type: 'Lecture'
+          id: '11'
+          name: "Hypothesis Testing IV"
+          href: "./slides/Lecture11_STAT131A.pdf"
+        - type: 'R code'
+          id: '9'
+          name: "R code for lecture example problems"
+          href: "./code/Lec11.R"
 #- week: 2
 #  days:
 #    - date: 'Sep 29'
