@@ -76,7 +76,7 @@
           href: "./code/Lec9 (Hypothesis Testing Examples).R"
 - week: 6
   days:
-    - date: 'Sep 29'
+    - date: 'Sep 30'
       items:
         - type: 'Lecture'
           id: '10'
@@ -88,7 +88,7 @@
           href: "./code/Lec10_Examples.R"
 - week: 6
   days:
-    - date: 'Oct 1'
+    - date: 'Oct 2'
       items:
         - type: 'Lecture'
           id: '11'
