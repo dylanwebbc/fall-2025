@@ -41,7 +41,7 @@ Week 14: Thanksgiving Break
 
 Week 15: Causal Inference | Revision & Discussion for FINAL EXAM
 
-Week 16: Recap of semester journey | Final project - Discussion | 
+Week 16: Recap of semester journey | Final project - Discussion 
 
 Week 17 : FINAL EXAM
 
