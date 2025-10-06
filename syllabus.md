@@ -9,24 +9,43 @@ Stat 131A is an upper-division course that follows Data 8 or STAT 20. The course
 Basically this course covers the fundamental concepts, practical “hammers”, and accompanying implementation skills that will inevitably surface in any real-world data science project and for any domain.
 
 
-## Topics
+## Topics and Semester Schedule
 
- - Distributional Summary of Data. {span .text-gray-500}`2.1`
- - Visualization (Boxplots, Histograms, etc.). {span .text-gray-500}`2.1`
- - Discrete and continuous distributions. Normal Distribution, Central Limit Theorem. {span .text-gray-500}`2.1, 2.3, 2.4.3`
- - Probability. Bayes’ theorem. Naive Bayes algorithm. {span .text-gray-500}`2.1`
- - Sampling distributions. Bootstrapping. {span .text-gray-500}`2.4`
- - Confidence intervals. Parametric hypothesis testing. {span .text-gray-500}`3`
- - Hypothesis testing. Type I and II errors. {span .text-gray-500}`3`
- - Linear regression. {span .text-gray-500}`4.1–4.3, 6`
- - Explanation: Feature generation. Transformations. {span .text-gray-500}`6`
- - Evaluation: Cross-validation. Bias-variance tradeoff. Logistic regression. Classification error metrics. {span .text-gray-500}`7, 7.5`
- - Non-parametric methods. Kernel density estimation (KDE). {span .text-gray-500}`2.5, 4.4–4.5`
- - Principal components analysis (PCA). {span .text-gray-500}`5`
- - Clustering. {span .text-gray-500}`5.4`
- - Decision trees. Random Forests. {span .text-gray-500}`8`
- - Causal Inference
- - Project prep
+Week 1: The First Lecture ! (Introduction)
+
+Week 2: Central Tendencies: Mean, Median, Mode | Visualization: The Boxplot
+
+Week 3: Probabilistic Distributions
+
+Week 4: Kernel Density Estimation | The Central Limit Theorem
+
+Week 5: Hypothesis Testing I & II
+
+Week 6: Hypothesis Testing III & IV
+
+Week 7: Hypothesis Testing V | Linear Regression - Introduction
+
+Week 8: Linear Regression - Least squares | Linear Regression - Local fitting 
+
+Week 9: Multivariate Data | Revision & Discussion for MIDTERM Exam
+
+Week 10: Multiple Regression | MIDTERM Exam (from Week 1, up to and including Linear Regression - Least squares)
+
+Week 11: Principal Components Analysis | Logistic regression I
+
+Week 12: Logistic regression II | Classification Trees I
+
+Week 13: Final project - Introduction | Classification Trees II 
+
+Week 14: Thanksgiving Break
+
+Week 15: Causal Inference | Revision & Discussion for FINAL EXAM
+
+Week 16: Recap of semester journey | Final project - Discussion | 
+
+Week 17 : FINAL EXAM
+
+
   
 ## Grades
 
