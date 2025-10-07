@@ -71,7 +71,7 @@
           name: "Hypothesis Testing II"
           href: "./slides/Lecture9_STAT131A.pdf"
         - type: 'R code'
-          id: '9'
+          id: ''
           name: "R code for lecture example problems"
           href: "./code/Lec9 (Hypothesis Testing Examples).R"
 - week: 6
@@ -83,7 +83,7 @@
           name: "Hypothesis Testing III"
           href: "./slides/Lecture10_STAT131A.pdf"
         - type: 'R code'
-          id: '9'
+          id: ''
           name: "R code for lecture example problems"
           href: "./code/Lec10_Examples.R"
 - week: 6
@@ -95,7 +95,7 @@
           name: "Hypothesis Testing IV"
           href: "./slides/Lecture11_STAT131A.pdf"
         - type: 'R code'
-          id: '9'
+          id: ''
           name: "R code for lecture example problems"
           href: "./code/Lec11.R"
 - week: 7
@@ -107,7 +107,7 @@
           name: "Hypothesis Testing V"
           href: "./slides/Lecture12_STAT131A.pdf"
         - type: 'R code'
-          id: '9'
+          id: ''
           name: "R code for lecture example problems"
           href: "./code/Lec12.R"
 #- week: 2
