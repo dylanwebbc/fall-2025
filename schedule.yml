@@ -98,6 +98,18 @@
           id: '9'
           name: "R code for lecture example problems"
           href: "./code/Lec11.R"
+- week: 7
+  days:
+    - date: 'Oct 7'
+      items:
+        - type: 'Lecture'
+          id: '12'
+          name: "Hypothesis Testing V"
+          href: "./slides/Lecture12_STAT131A.pdf"
+        - type: 'R code'
+          id: '9'
+          name: "R code for lecture example problems"
+          href: "./code/Lec12.R"
 #- week: 2
 #  days:
 #    - date: 'Sep 29'
