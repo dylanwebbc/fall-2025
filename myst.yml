@@ -40,9 +40,9 @@ site:
   nav: []
   actions:
   - title: bCourses
-    url: https://bcourses.berkeley.edu
+    url: https://bcourses.berkeley.edu/courses/1549075
   - title: Ed
-    url: https://edstem.org
+    url: https://edstem.org/us/courses/88392/discussion
   - title: Gradescope
     url: https://www.gradescope.com/courses/564792
   domains:
